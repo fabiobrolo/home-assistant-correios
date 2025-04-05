@@ -2,7 +2,7 @@
   "domain": "correios",
   "name": "Rastreamento Correios",
   "version": "1.0",
-  "documentation": "https://github.com/oridestomkiel/home-assistant-correios",
+  "documentation": "https://github.com/fabiobrolo/home-assistant-correios",
   "dependencies": [],
   "codeowners": [
     "@oridestomkiel"
