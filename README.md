@@ -1,6 +1,6 @@
 # Home Assistant Correios
 
-[![Generic badge](https://img.shields.io/badge/contributor-@dfabiobrolo-<COLOR>.svg)](https://github.com/fabiobrolo)
+[![Generic badge](https://img.shields.io/badge/contributor-@fabiobrolo-<COLOR>.svg)](https://github.com/fabiobrolo)
 
 ## Rastreamento de objetos nos correios.
 
